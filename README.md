@@ -20,7 +20,7 @@ The **STM32CubeC0 MCU Package** projects are directly running on the STM32C0 ser
 
 ## Release note
 
-Details about the content of this release are available in the release note [here](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/STM32CubeC0/blob/master/Release_Notes.html).
+Details about the content of this release are available in the release note [here](https://rawcdn.githack.com/ALABSTM/STM32CubeC0/main/Release_Notes.html).
 
 ## How to use
 
